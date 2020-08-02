@@ -1,4 +1,3 @@
-from urllib.request import urlopen
 
 contents = "Betty Botter bought a bit of butter \n but the bit of butter was bitter so Betty Botter bought a bit of better butter \nto make the bit of bitter butter better"
 total_words = contents.split()
